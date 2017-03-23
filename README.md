@@ -2,9 +2,5 @@
 
 Repo for random scripts and notebooks.
 
-### Mixture Density Networks
-
-See **MixtureDensityNets.ipynb**
-
-### Lincense
+### License
 BSD.
